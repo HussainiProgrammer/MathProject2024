@@ -1,0 +1,26 @@
+{
+    "order": [
+        "value1",
+        "value2",
+        "required1"
+    ],
+    "count": 2,
+    "count_required": 1,
+    "value1": {
+        "Quantity": "Arc Length",
+        "Value": "6",
+        "Unit": "cm",
+        "Object": " Sector"
+    },
+    "value2": {
+        "Quantity": "Area",
+        "Value": "15",
+        "Unit": "cm\u00b2",
+        "Object": " Sector"
+    },
+    "required1": {
+        "Quantity": "Central Angle",
+        "Unit": "Degrees",
+        "Object": " Sector"
+    }
+}
